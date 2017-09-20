@@ -1,0 +1,20 @@
+{  
+   "com": [  
+     {  
+         "id": "000",  
+         "comando": "ls",  
+         "explicacao": "serve para xxxx",  
+         "exemplo": "ls -lhtr",  
+         "imagem" : "xxxxx" 
+         
+     },  
+     {  
+         "id": "001",  
+         "comando": "ls2",  
+         "explicacao": "serve para xxxx",  
+         "exemplo": "ls -lhtr",  
+         "imagem" : "xxxxx" 
+         
+     }
+]
+}
